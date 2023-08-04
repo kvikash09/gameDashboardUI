@@ -1,0 +1,18 @@
+FontAwesome Icons:
+------------------
+
+<script src="https://kit.fontawesome.com/a3333623eb.js" crossorigin="anonymous"></script>
+
+Font:
+-----
+
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&family=Poppins:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+API Key (Weather):
+------------------
+
+84fbb5659ffb58b7a3c2d04392bfe75e
+
+API url:
+--------
+https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
