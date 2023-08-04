@@ -1,1 +1,1 @@
-# gameDashboardUI
+# My Project (HTML, CSS, JavaScript)
