@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  background-color: darkcyan;
+}
+.favorite-icon {
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin: 10px;
+  z-index: 1;
+  cursor: pointer;
+}
+
+.favorite-icon .fas {
+  color: red;
+}
